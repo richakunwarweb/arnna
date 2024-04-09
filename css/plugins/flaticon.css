@@ -112,6 +112,7 @@ Flaticon icon font: Flaticon
 .flaticon-swimming:before {
 	content: '\f126';
 }
+
 .flaticon-paper-plane:before {
 	content: '\f127';
 }
@@ -169,6 +170,7 @@ Flaticon icon font: Flaticon
 .flaticon-towel:before {
 	content: '\f145';
 }
+
 .flaticon-shield:before {
 	content: '\f147';
 }
@@ -195,4 +197,7 @@ Flaticon icon font: Flaticon
 }
 .flaticon-home:before {
 	content: '\f157';
+}
+.flaticon-bottle::before{
+	content: '\f158';
 }

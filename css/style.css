@@ -2547,6 +2547,13 @@ hr {
     font-family: 'Libre Caslon Display', serif;
     display: inline;
 }
+.about-ul{
+    font-size: 20px;
+    color: #3b3b3b;
+}
+.about-ul li{
+list-style-type: disc;
+}
 .rooms3 .price i {
     font-family: 'Outfit', sans-serif;
     font-size: 12px;
